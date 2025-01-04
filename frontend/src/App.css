@@ -1,18 +1,23 @@
+*{
+  background-color: rgb(133, 135, 135);
+}
+
 .App {
   text-align: center;
   font-family: Arial, sans-serif;
 }
 
 h1 {
-  color: #4CAF50;
+  color: #000000;
 }
 
+
 .crypto-item {
-  border: 1px solid #ddd;
+  border: 1px solid #000000;
   padding: 10px;
   margin: 10px;
   border-radius: 5px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(169, 101, 101, 0.1);
 }
 
 .crypto-item h2 {
